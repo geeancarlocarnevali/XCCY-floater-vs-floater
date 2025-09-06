@@ -1,0 +1,2 @@
+The objective is to simulate the MtM value of this swap and conduct a "what-if" analysis to assess how shocks to the interest rate curves affect its valuation. 
+For this purpose, we will employ the one-factor Hull–White model to simulate interest rate dynamics and a Geometric Brownian Motion (GBM) to model the evolution of the exchange rate.
